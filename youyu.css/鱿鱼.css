@@ -1,0 +1,185 @@
+*{
+			margin: 0px;
+			padding: 0px;
+		}
+			
+			.contents{
+				width: 1160px;
+    			margin: 0 auto;
+    			overflow: hidden;
+    		}
+    		.pl{
+    			float: right;
+    			width: 380px;
+    			padding: 10px;
+    			background: url(http://p5.yokacdn.com/pic/div/2015/products/brand1/img/brnad_xx.png);
+    		}
+    		.box{
+    			width: 350px;
+    			height: 230px;
+    			padding: 10px 15px 0;
+    			overflow: hidden;
+    			background:#fff;
+    		}
+    		.box h2 a:hover{
+    			color: orangered;
+    			text-decoration: underline;
+    		}
+    		h2{
+    			font-weight: normal;
+    			font-size: 12px;
+    		}
+    		.pl h2{
+    			height: 39px;
+    			line-height: 39px;
+    			padding-left: 32px;
+    			overflow: hidden;
+    			background: url(http://p5.yokacdn.com/pic/div/2015/products/brand1/img/brand_newbg.png) no-repeat 0 10px;
+    			border-bottom: 1px solid #d8d8d8;
+    			margin-bottom: 12px;
+    		}
+    		a{
+    			text-decoration: none;
+    			color: #8c8c8c;
+    		}
+    		.pl p{
+    			color: #898888;
+    			line-height: 26px;
+    			height: 145px;
+    			overflow-x: hidden;
+    			overflow-y: auto;
+    		}
+    		.b-tit-new{
+    			width: 1160px;
+    			height: 76px;
+    			overflow: hidden;
+    			background: url(http://p5.yokacdn.com/pic/div/2015/products/brand1/img/brnad_dian.png) repeat-x;
+    			text-align: center;
+    		}
+    		.b-tit-new span{
+    			display: inline-block;
+    		}
+    		.select_tabd8{
+    			height: 40px;
+    			clear: both;
+    			padding-bottom: 20px;
+    		}
+    		.select_tabd8 a.on{
+    			background: #f8f8f8;
+    			color: #222;
+    		}
+    		.select_tabd8 a.a_first{
+    			    border-left: 1px solid #e5e5e5;
+    		}
+    		.select_tabd8 a{
+    			display: block;
+    			float: left;
+    			padding: 0 40px;
+    			height: 38px;
+    			line-height: 38px;
+    			font-size: 16px;
+    			border: 1px solid #e5e5e5;
+    		}
+    		.b-brnad-hot.on{
+    			display: block;
+    		}
+    		.b-brnad-hot{
+    			width: 1160px;
+    			overflow: hidden;
+    		}
+    		.b-brnad-hot .mask{
+    			width: 1180px;
+    		}
+    		.b-brnad-hot dl{
+    			width: 245px;
+    			height: 300px;
+    			overflow: hidden;
+    			padding: 14px 14px 8px;
+    			border: 1px solid #ececec;
+    			float: left;
+    			margin: 0 20px 20px 0;
+    		}
+    		dl{
+    			    display: block;
+    			margin-block-start: 1em;
+    			margin-block-end: 1em;
+    			margin-inline-start: 0px;
+    			margin-inline-end: 0px;
+    		}
+    		.b-brnad-hot dt{
+    			width: 245px;
+    			height: 245px;
+    			overflow: hidden;
+    			text-align: center;
+    		}
+    		dt{
+    			display: block;
+    		}
+    		.b-brnad-hot dt img{
+    			display: inline-block;
+    			vertical-align: middle;
+    		}
+    		img{
+    			border: 0;
+    		}
+    		.b-brnad-hot dd{
+    			width: 245px;
+    			overflow: hidden;
+    			padding-top: 10px;
+    			font-size: 14px;
+    		}
+    		.b-brnad-hot dd p{
+    			    color: #000000;
+    		}
+    		.brand-footer{
+    			margin-top: 20px;
+    			overflow: hidden;
+    		}
+    		.brand-footer .yo_footer{
+    			width: 100%;
+    			min-width: 1160px;
+    			background: #f2f2f2;
+    			border-top: 1px solid #dfdfdf;
+    		}
+    		.yo_footer{
+    			margin: 0 auto;
+    			color: #5d5d5d;
+    		}
+    		.brand-footer .footer_links{
+    			border-bottom: 1px solid #ddd;
+    			height: 64px;
+    			line-height: 64px;
+    			padding: 0;
+    		}
+    		.footer_links{
+    			overflow: hidden;
+    			font-size: 16px;
+    			text-align: Center;
+    		}
+    		.brand-footer .footer_links a{
+    			color: #323232;
+    			margin: 0 59px;
+    		}
+    		a{
+    			text-decoration: none;
+    		}
+    		.footer_links a{
+    			display: inline-block;
+    		}
+    		.brand-footer .footer_copy{
+    			line-height: 60px;
+    			text-align: center;
+    			border-top: 1px solid #dfdfdf;
+    			text-shadow: 1px 1px 0px #fff;
+    			padding: 0;
+    			color: #ccc;
+    			font-size: 14px;
+    		}
+    		.select_tabd8 a:hover{
+    			color: orangered;
+    			text-decoration: underline;
+    		}
+    		.footer_links a:hover{
+    			color: orangered;
+    			text-decoration: underline;
+    		}
